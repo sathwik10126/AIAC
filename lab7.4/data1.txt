@@ -1,0 +1,2 @@
+First file content
+Additional line in first file
